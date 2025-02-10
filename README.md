@@ -48,6 +48,7 @@ This project is an automated testing framework for an e-commerce website using *
 
 
 
+More Test Case: https://docs.google.com/document/d/19CJBXMX0DuT53OdonfBzpWDy6FCFQQdzHFJbnNFaaRs/edit?usp=sharing
 
 
 
